@@ -1,123 +1,145 @@
-<!-- Neon Header -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:22C55E&height=230&section=header&text=Dinesh%20Abhimanyu%20Chougule&fontSize=38&fontColor=E5E7EB&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dinesh%20Chougule&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center" style="color:#22d3ee;">⚡ AWS & DevOps Engineer ⚡</h2>
+<h3 align="center">🚀 AWS & DevOps Engineer | Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=AWS+Cloud+%7C+DevOps+Automation;CI%2FCD+Pipelines+%7C+Kubernetes;Docker+%7C+Terraform+%7C+Linux;Building+Scalable+Systems+☁️" />
+  <a href="mailto:dineshchougule2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dineshchougule2002@gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/chougule-dinesh-6a4031279/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Chougule-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/ByteNinja-574">
+    <img src="https://img.shields.io/badge/GitHub-ByteNinja--574-black?style=flat-square&logo=github">
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```yaml
-Name: Dinesh Abhimanyu Chougule
-Role: AWS & DevOps Engineer
-Focus:
-  - Cloud Automation
-  - CI/CD Pipelines
-  - Containerization
-  - Infrastructure as Code
-Goal: Build reliable & scalable cloud systems
+💡 I am an **AWS & DevOps fresher** with hands-on experience in  
+**CI/CD pipelines, cloud infrastructure, Docker, and Linux**.
 
+🎓 **B.Tech in Computer Science (2025)**  
+💼 **DevOps Engineering Intern @ Pipran Infotech Pvt Ltd**  
+📍 India | 🌍 Open to **Remote & Onsite roles**
 
-## 🛠️ Tech Stack & Tools
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
-
-### ⚙️ DevOps Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📦 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🗄️ Databases & IaC
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+🎯 Actively looking for **Junior DevOps / Cloud Engineer opportunities**
 
 ---
 
-## 🚀 DevOps Projects
+## 🛠️ Tech Stack
 
-### 🔹 CI/CD Pipeline using Jenkins & Docker
-- Automated build, test & deployment
-- Dockerized application
-- GitHub webhook integration
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,ansible" />
+</p>
 
-### 🔹 AWS Cloud Infrastructure
-- EC2, S3, IAM, VPC setup
-- Load Balancer + Auto Scaling
-- Secure architecture with IAM roles
+### 🧑‍💻 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,python,maven" />
+</p>
 
-### 🔹 Kubernetes Deployment
-- Docker image deployment on K8s
-- Services & Ingress
-- Rolling updates & scaling
+---
 
-*(More projects coming 🚧)*
+## ⚙️ DevOps in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  🚀 Automating • Scaling • Deploying • Monitoring
+</p>
+
+---
+
+## 📌 Skills
+
+- **Cloud:** AWS (EC2, S3, IAM, VPC, EBS, ELB, Auto Scaling, Route 53, CloudWatch)
+- **CI/CD:** Jenkins
+- **Containers:** Docker, Kubernetes
+- **IaC & Config:** Ansible
+- **Version Control:** Git, GitHub, Bitbucket
+- **Scripting:** Shell, Python (Basics)
+- **OS:** Linux
+
+---
+
+## 🚀 Projects
+
+### 🔹 Cloud Migration Practice Project (AWS)
+- Migrated an on-premises application to AWS using EC2
+- Implemented IAM roles with least-privilege access
+- Configured S3 for storage and backups
+- Gained hands-on experience with AWS networking & monitoring
+
+### 🔹 Android-Based Virtual Tourism Application
+- Built an Android app for virtual tours using Google Maps API
+- Added features like nearby attractions, food tips & travel planning
+
+---
+
+## 💼 Internship Experience
+
+**DevOps Engineering Intern – Pipran Infotech Pvt Ltd**  
+📅 Jun 2024 – Aug 2024
+
+- Assisted in AWS infrastructure planning (EC2, S3, RDS)
+- Worked on CI/CD concepts and deployment workflows
+- Supported cloud migration and monitoring activities
+- Learned DevOps best practices and cost optimization
+
+---
+
+## 📜 Certifications
+
+- ✅ DevOps Training – Naresh iT  
+- ✅ Oracle Training – Naresh iT  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshChougule&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshChougule&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteNinja-574&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteNinja-574&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshChougule&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- ☁️ Advanced AWS (EKS, Security, Monitoring)
-- 📦 Kubernetes (Helm, Operators)
-- 🔐 DevSecOps
-- ⚡ Terraform + Ansible
+- Kubernetes (EKS)
+- Terraform
+- Advanced CI/CD pipelines
+- Cloud security & monitoring
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
+
+💼 Looking for **Junior DevOps / Cloud Engineer roles**  
+📫 Email: **dineshchougule2002@gmail.com**
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Fun DevOps GIF
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300"/>
-</p>
-
----
-
-<p align="center">
-  🚀 *"Automate everything, scale endlessly, sleep peacefully"* ☁️
+  <img src="https://komarev.com/ghpvc/?username=ByteNinja-574&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
